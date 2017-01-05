@@ -1,0 +1,3 @@
+# for_learning
+just to learn about git
+ IN ORDER TO UNDERSTAND THE BASIC COMMANDS OF GIT I AM USING THIS REPOSITORY.
